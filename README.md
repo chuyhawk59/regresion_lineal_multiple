@@ -13,5 +13,7 @@ En esta base de datos existen 6 columnas:
 * **Presión**: Nivel escalado de presión sonora, en dB.
 
 En los siguientes links estarán la regresión realizada en 2 diferentes formatos: Jupyter Notebooks y HTML. También estará la base de datos utlizada.
-* 
+* [Archivo en Jupyter Notebooks](Regresion_LM.ipynb)
+* [Archivo en HTML](Regresion_LM.html)
+* [Base de datos](NASA.csv)
 
